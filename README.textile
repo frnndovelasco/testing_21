@@ -1,0 +1,3 @@
+Data is from http://www.cfe.gob.mx/QuienesSomos/estadisticas/listadocentralesgeneradoras/Paginas/listadohidroelectricas.aspx
+
+This should be compared with the data in the reports here: http://www.cfe.gob.mx/QuienesSomos/publicaciones/Paginas/Planeaciondelsistemaelectriconacional.aspx
